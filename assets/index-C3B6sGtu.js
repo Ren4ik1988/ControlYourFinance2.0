@@ -1,0 +1,1 @@
+import{_ as e}from"./BaseLayout-Fbf9nGdB.js";import{_ as a,c as s,w as o,o as c,a as t}from"./index-7x_P8KF4.js";import"./VMain-Dk4xUsRy.js";const r={components:{BaseLayout:e}};function _(p,i,u,m,l,f){const n=e;return c(),s(n,null,{title:o(()=>[t(" ControlYourFinance ")]),workspace:o(()=>[t(" Содержимое главной страницы ")]),_:1})}const $=a(r,[["render",_]]);export{$ as default};
